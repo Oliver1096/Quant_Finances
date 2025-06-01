@@ -1,3 +1,3 @@
-# Quantitative Finances aplied to market risks and derivatives products
+# Quantitative Finances applied to market risks and derivative products
 
 
