@@ -1,2 +1,3 @@
-# Cap4
-Suma de Reglas
+# Quantitative Finances aplied to market risks and derivatives products
+
+
