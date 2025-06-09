@@ -44,5 +44,5 @@ You can compare different types of assets or portfolios with **VaR**.
 You can compare profitability and risk of different units and make a decision accordingly. 
 
 
-$E = mc^2$
+
 
