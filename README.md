@@ -44,9 +44,5 @@ You can compare different types of assets or portfolios with **VaR**.
 You can compare profitability and risk of different units and make a decision accordingly. 
 
 
-\usepackage{amsmath}
+$E = mc^2$
 
-\begin{align}
-y &= mx + b \\
-z &= y^2
-\end{align}
