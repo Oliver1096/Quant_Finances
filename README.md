@@ -33,16 +33,26 @@ Analíticamente, el modelo B-S es una **ecuación diferencial parcial**.
 ## Value at Risk (VaR)
 
 **VaR is a number measure in price unit.**
+
 It tells you that in a large percentage of cases your portfolio is likely to not lose more than that amount of money.
 
 **VaR** measures the amount of potential loss that could happen in an investment ( or a portfolio of investments) over a given period of time (with a given degree of confidence).
 
+
 **VaR** is easy to understand and easy to interpret.
+
 Standard deviation or beta is not that straightforward.
 
+
 You can compare different types of assets or portfolios with **VaR**.
+
 You can compare profitability and risk of different units and make a decision accordingly. 
 
 
+Basically, there are two ways to handle value at Risk, with the **variance method** and with the **Monte Carlo Simulation**
+
+#### Variance Method
+
+This method assumes returns are normally distributed
 
 
