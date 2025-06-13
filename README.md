@@ -67,3 +67,4 @@ Basically, there are two ways to handle value at Risk, with the **variance metho
 This method assumes returns are normally distributed
 
 
+$C = S \cdot N(d_1) - K \cdot e^{-rT} \cdot N(d_2)$
