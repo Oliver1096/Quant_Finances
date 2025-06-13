@@ -14,6 +14,10 @@ Quantitative analysis assumes a random behavior of assets so it is assumed that 
 
 **Stochastic calculus** is an important field of mathematics that works with stochastic processes. Much like ordinary calculus, stochastic calculus is based on several fundamental results. One of the most important stochastic calculus results used in options is **Itô's lemma**. Though this result was discovered about 1950, it did not get firmly establiseh in the finance literature until 1973 when Black, Scholes and Merton discovered that it could be used to model the price of a stock and ultimatwly to facilitate pricing an option.
 
+In ordinary calculus, the variables are non-stochastic, wich simply means that when we talk about a particular value of $x$, that value is known for certain. When $x$ is stochastic, we leave the world of ordinary calculus and enter the world of stochastic calculus. There we cannot talk about a set of possible values of $x$ that are generated according to a probability distribution. In stochastic calculus, results are proven by demostrating what happends when squared values of a variable are multiplied by probabilities.
+
+
+
 In simple words when a random variable follows a **Brownian-type process**, you cannot apply the traditional rules of differentiation. Itô’s Lemma corrects this by adding a second-order term that accounts for the variance of the stochastic process.
 
 
