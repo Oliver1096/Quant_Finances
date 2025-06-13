@@ -38,7 +38,7 @@ Analíticamente, el modelo B-S es una **ecuación diferencial parcial**.
 * El precio S del activo subyacente es descrito mediante un movimiento geométrico Browniano.
 * No existen oportunidades de arbitraje.
 * 
-
+$C = S \cdot N(d_1) - K \cdot e^{-rT} \cdot N(d_2)$
 
 
 ## Value at Risk (VaR)
@@ -67,4 +67,4 @@ Basically, there are two ways to handle value at Risk, with the **variance metho
 This method assumes returns are normally distributed
 
 
-$C = S \cdot N(d_1) - K \cdot e^{-rT} \cdot N(d_2)$
+
