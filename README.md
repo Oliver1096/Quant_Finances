@@ -16,7 +16,9 @@ Quantitative analysis assumes a random behavior of assets so it is assumed that 
 
 In ordinary calculus, the variables are non-stochastic, wich simply means that when we talk about a particular value of $x$, that value is known for certain. When $x$ is stochastic, we leave the world of ordinary calculus and enter the world of stochastic calculus. There we cannot talk about a set of possible values of $x$ that are generated according to a probability distribution. In stochastic calculus, results are proven by demostrating what happends when squared values of a variable are multiplied by probabilities.
 
+The generalized form of Itô process it´s expressed as:
 
+$dx = \mu (x,t)dt + \sigma(x,t)dW_t$
 
 In simple words when a random variable follows a **Brownian-type process**, you cannot apply the traditional rules of differentiation. Itô’s Lemma corrects this by adding a second-order term that accounts for the variance of the stochastic process.
 
