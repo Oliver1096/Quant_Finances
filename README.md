@@ -20,11 +20,11 @@ In simple words when a random variable follows a **Brownian-type process**, you 
 
 The generalized form of Itô process is expressed as:
 
-$dx = \mu (x,t)dt + \sigma(x,t)dW_t$
+<p align="center"> $dx = \mu (x,t)dt + \sigma(x,t)dW_t$</p>
 
 where $F=F(x,t)$ , subject to certain technical constraints,
 
-$dF = \frac{\partial F}{\partial x}[\mu(x,t)dt + \sigma(x,t)dW] + \frac{\partial F}{\partial t} + \frac{1}{2} \frac{\partial^2 F}{\partial x^2} \sigma(x,t)^2 dt.
+<p align="center"> $dF = \frac{\partial F}{\partial x}[\mu(x,t)dt + \sigma(x,t)dW] + \frac{\partial F}{\partial t} + \frac{1}{2} \frac{\partial^2 F}{\partial x^2} \sigma(x,t)^2 dt$</p>
 
 This result is known as Ito's lemma, being named for the japanese mathematician Kiyoshi Itô, who discovered this result.
 
