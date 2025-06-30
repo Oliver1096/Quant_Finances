@@ -90,4 +90,5 @@ This method assumes returns are normally distributed
 
 ## Sources
 
-
+* Robert E. Brooks & Don M. Chance. *Foundations of the Pricing of Financial Derivatives*
+* John Hull. *Options, Futures and Other Derivatives*
