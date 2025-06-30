@@ -5,10 +5,19 @@
 * Forwards
 * Options
 
-We use different models to pricing and trading.
+We use different models to pricing derivative pruducts.
 
 Quantitative analysis assumes a random behavior of assets so it is assumed that financial quantities such as stock prices, interest rates, the value of options have a random behavior.
 
+
+
+## Brownian Motion 
+
+In 1827 the Scottish botanist **Robert Brown** observed the random behavior of pollen particles suspended in water. This phenomenon cme to be known as *Brownian motion* .
+Louis Bachelier in his doctoral work on option pricing in 1900 made numerous advances of this mathematical properties.
+
+
+## The Wiener process
 
 ## Itô's lemma
 
@@ -78,5 +87,7 @@ Basically, there are two ways to handle value at Risk, with the **variance metho
 
 This method assumes returns are normally distributed
 
+
+## Sources
 
 
