@@ -16,11 +16,21 @@ Quantitative analysis assumes a random behavior of assets so it is assumed that 
 
 In ordinary calculus, the variables are non-stochastic, wich simply means that when we talk about a particular value of $x$, that value is known for certain. When $x$ is stochastic, we leave the world of ordinary calculus and enter the world of stochastic calculus. There we cannot talk about a set of possible values of $x$ that are generated according to a probability distribution. In stochastic calculus, results are proven by demostrating what happends when squared values of a variable are multiplied by probabilities.
 
-The generalized form of Itô process it´s expressed as:
+In simple words when a random variable follows a **Brownian-type process**, you cannot apply the traditional rules of differentiation. Itô’s Lemma corrects this by adding a second-order term that accounts for the variance of the stochastic process.
+
+The generalized form of Itô process is expressed as:
 
 $dx = \mu (x,t)dt + \sigma(x,t)dW_t$
 
-In simple words when a random variable follows a **Brownian-type process**, you cannot apply the traditional rules of differentiation. Itô’s Lemma corrects this by adding a second-order term that accounts for the variance of the stochastic process.
+where $F=F(x,t)$ , subject to certain technical constraints,
+
+$dF = \frac{\partial F}{\partial x}[\mu(x,t)dt + \sigma(x,t)dW] + \frac{\partial F}{\partial t} + \frac{1}{2} \frac{\partial^2 F}{\partial x^2} \sigma(x,t)^2 dt.
+
+This result is known as Ito's lemma, being named for the japanese mathematician Kiyoshi Itô, who discovered this result.
+
+The equation describes the stochastic process of a function $F(x,t)$ that is driven by time $t$ and a stochastic process for $x$ of the form we previously referred to as a Winner process.
+
+Itô's lemma is widely used in pricing derivatives. The price of a derivative is said to be 'derived' from the price of the underlying asset and time. Thus, $F(x,t)$ is a convenient specification of a derivative price, because its value is derived from $x$ and $t$ , with $x$ known to be stochastic and $t$ representing time. 
 
 
 ## Black - Scholes model.
