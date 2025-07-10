@@ -1,9 +1,10 @@
 # Quantitative Finances applied to market risks and derivative products
 
-<p align="center">The most common definition of a derivative reads approximately as follows:</p>
+The most common definition of a derivative reads approximately as follows:
 
+<p align="center"><em>A derivative is a finantial instrument that derives its performance from the performance of an underlying asset</em></p>
 
-*A derivative is a finantial instrument that derives its performance from the performance of an underlying asset*.
+<p align="center"> \* A derivative is a finantial instrument that derives its performance from the performance of an underlying asset \* .</p>
 
 
 This definition despite being so widely quoted, can nonetheless be a bit troublesome. 
