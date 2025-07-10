@@ -14,12 +14,6 @@ For example, it can also describe mutual funds and Exchange-Traded Funds, wich w
 
 
 
-
-## Derivative products 
-* Swaps
-* Forwards
-* Options
-
 Quantitative analysis assumes a random behavior of assets so it is assumed that financial quantities such as stock prices, interest rates, the value of options have a random behavior.
 
 
@@ -71,8 +65,8 @@ Analíticamente, el modelo B-S es una **ecuación diferencial parcial**.
 * El activo subyacente no paga dividendos.
 * El precio S del activo subyacente es descrito mediante un movimiento geométrico Browniano.
 * No existen oportunidades de arbitraje.
-* 
-$C = S \cdot N(d_1) - K \cdot e^{-rT} \cdot N(d_2)$
+  
+<p align="center">$C = S \cdot N(d_1) - K \cdot e^{-rT} \cdot N(d_2)$</p>
 
 
 ## Value at Risk (VaR)
