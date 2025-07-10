@@ -20,7 +20,7 @@ Quantitative analysis assumes a random behavior of assets so it is assumed that 
 
 ## Brownian Motion 
 
-In 1827 the Scottish botanist **Robert Brown** observed the random behavior of pollen particles suspended in water. This phenomenon cme to be known as *Brownian motion* .
+In 1827 the Scottish botanist **Robert Brown** observed the random behavior of pollen particles suspended in water. This phenomenon came to be known as *Brownian motion* .
 Louis Bachelier in his doctoral work on option pricing in 1900 made numerous advances of this mathematical properties.
 
 
