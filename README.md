@@ -16,7 +16,7 @@ For example, it can also describe mutual funds and Exchange-Traded Funds, wich w
 
 ## Summary
 
-Quantitative analysis assumes a random behavior of assets so it is assumed that financial quantities such as stock prices, interest rates, the value of options have a random behavior. Thus, the financial landscape will be everchanging. Indeed, it is important to understand the probability process driving prices, because this helps to develop good valuation models. 
+Quantitative analysis assumes a random behavior of assets so it is assumed that financial quantities such as stock prices, interest rates, the value of options have a random behavior. Thus, the financial landscape will be everchanging. Indeed, it is important to understand the probability process driving prices, because this helps to develop good valuation models. Estimates of expected returns and volatilities and their effects on assets and derivative prices are assential elements in the financial decision making process.
 
 
 
