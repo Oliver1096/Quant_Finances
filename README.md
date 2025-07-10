@@ -1,8 +1,6 @@
 # Quantitative Finances applied to market risks and derivative products
 
-<p align="center"> 
-
-  The most common definition of a derivative reads approximately as follows:
+<p align="center">The most common definition of a derivative reads approximately as follows:</p>
 
 
 *A derivative is a finantial instrument that derives its performance from the performance of an underlying asset*.
@@ -13,9 +11,9 @@ This definition despite being so widely quoted, can nonetheless be a bit trouble
 
 For example, it can also describe mutual funds and Exchange-Traded Funds, wich would never be viewed as derivatives even though they derive their values from the values of the underlying securities they hold. Perhaps the distinction that best characterizes derivatives is that they ussualy transform the performance of the underlying asset before paying it out in the derivatives transaction. In contrast, with the exception of expense deductions, mutual funds and ETF fimply pass through the returns of their underlying securities.
 
-</p>
+<p align="left">- CFA Institute.</p>
 
-- CFA Institute.
+
 
 ## Derivative products 
 * Swaps
