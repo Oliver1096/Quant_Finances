@@ -28,6 +28,14 @@ Louis Bachelier in his doctoral work on option pricing in 1900 made numerous adv
 
 ## The Wiener process
 
+The increment to the standard Brownian Motion is called a *Winener process* , named for the American mathematician, Norbert Wiener
+
+One interesting property of the Wiener process is that when you square it, it becomes perfectly predictable.
+
+Some characteristics of the Wiener process are below:
+
+$E(dW_t) = E( \epsilon_t \sqrt{dt}) = \sqrt{dt} E(\epsilon_t) = 0 $
+
 ## Itô's lemma
 
 **Stochastic calculus** is an important field of mathematics that works with stochastic processes. Much like ordinary calculus, stochastic calculus is based on several fundamental results. One of the most important stochastic calculus results used in options is **Itô's lemma**. Though this result was discovered about 1950, it did not get firmly establiseh in the finance literature until 1973 when Black, Scholes and Merton discovered that it could be used to model the price of a stock and ultimatwly to facilitate pricing an option.
