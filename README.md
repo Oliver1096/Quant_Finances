@@ -34,11 +34,11 @@ One interesting property of the Wiener process is that when you square it, it be
 
 Some characteristics of the Wiener process are below:
 
-$E(dW_t) = E( \epsilon_t \sqrt{dt}) = \sqrt{dt} E(\epsilon_t) = 0 $
+<p align="center"> $E(dW_t) = E( \epsilon_t \sqrt{dt}) = \sqrt{dt} E(\epsilon_t) = 0 $</p>
 
 And taking into account the variance:
 
-$var(dW_t) = E(\epsilon_t \sqrt{dt})^2 - [E(\epsilon_t \sqrt{dt} )]^2 = dtE(\epsilon_t$
+<p align="center"> $var(dW_t) = E(\epsilon_t \sqrt{dt})^2 - [E(\epsilon_t \sqrt{dt} )]^2 = dtE(\epsilon_t^2 ) - 0 = dt$</p>
 
 ## Itô's lemma
 
