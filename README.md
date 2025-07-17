@@ -114,4 +114,4 @@ This method assumes returns are normally distributed
 * Robert E. Brooks & Don M. Chance. *Foundations of the Pricing of Financial Derivatives*
 * John Hull. *Options, Futures and Other Derivatives*
 * Andrew Rennie & Martin Baxter. *Financial Calculus: An Introduction to Derivative Pricing*
-* CFA program 2023
+* CFA 2023 program.
