@@ -63,7 +63,7 @@ The equation describes the stochastic process of a function $F(x,t)$ that is dri
 Itô's lemma is widely used in pricing derivatives. The price of a derivative is said to be 'derived' from the price of the underlying asset and time. Thus, $F(x,t)$ is a convenient specification of a derivative price, because its value is derived from $x$ and $t$ , with $x$ known to be stochastic and $t$ representing time. 
 
 
-## Black - Scholes model.
+## Black - Scholes - Merton model.
 
 Propuesto en 1973 por Fischer Black y Myron Scholes para la valoración de opciones europeas sobre una acción que no paga dividendos y cuyo precio es descrito por un movimiento Browniano geométrico.
 
@@ -80,7 +80,12 @@ Analíticamente, el modelo B-S es una **ecuación diferencial parcial**.
 * El precio S del activo subyacente es descrito mediante un movimiento geométrico Browniano.
 * No existen oportunidades de arbitraje.
   
-<p align="center">$C = S \cdot N(d_1) - K \cdot e^{-rT} \cdot N(d_2)$</p>
+<p align="center">$C = S \cdot N(d_1) - X \cdot e^{-rT} \cdot N(d_2)$</p>
+
+
+The option price is assumed to be a function of only two variables: the asset price and time. 
+
+Black - Scholes used the Capital Asset Pricing Model to determine the a relationship between the market's require return on the option and the require return on the stock price and time.
 
 
 ## Value at Risk (VaR)
