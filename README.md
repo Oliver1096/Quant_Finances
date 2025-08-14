@@ -85,7 +85,7 @@ Analíticamente, el modelo B-S es una **ecuación diferencial parcial**.
 
 The option price is assumed to be a function of only two variables: the asset price and time. 
 
-Black - Scholes used the Capital Asset Pricing Model to determine the a relationship between the market's require return on the option and the require return on the stock price and time.
+The model of stock price behavior used by Black, Scholes and Merton is the Winner proces and the Itô's lemma. It assumes that the percentage changes in the stock price in a very show period of time are normally distribuited. 
 
 
 ## Value at Risk (VaR)
