@@ -94,7 +94,7 @@ and
 
 <p align="center">$d_2 = \frac{ln(S/X) + (r_c - \sigma^2/2) \cdot T}{\sigma \sqrt{T}} = d_1 - \sigma \sqrt{T}$</p>
 
-For the five inputs into the model, four are easy observable, the only remaining factor is the volatility, and it is indeeed an unobservable factor. Investors will have different opinions on the volatility, and this diversity of opinion will generate trading.
+For the five inputs into the model, **four are easy observable**, the only remaining factor is the volatility, and it is indeeed an unobservable factor. Investors will have different opinions on the volatility, and this diversity of opinion will generate trading.
 
 <div align="center">
 
