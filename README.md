@@ -88,7 +88,7 @@ where:
 
 and
 
-<p align="center">$d_2 = \frac{ln(S/X) + (r_c - \sigma^2/2) \cdot T}{\sigma \sqrt{T}} = d1 - \sigma \sqrt{T}$</p>
+<p align="center">$d_2 = \frac{ln(S/X) + (r_c - \sigma^2/2) \cdot T}{\sigma \sqrt{T}} = d_1 - \sigma \sqrt{T}$</p>
 
 
 The option price is assumed to be a function of only two variables: the asset price and time. 
