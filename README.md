@@ -86,6 +86,8 @@ where:
 
 <p align="center">$d_1 = \frac{ln(S/X) + (r_c + \sigma^2/2) \cdot T}{\sigma \sqrt{T}}$</p>
 
+and
+
 <p align="center">$d_2 = \frac{ln(S/X) + (r_c - \sigma^2/2) \cdot T}{\sigma \sqrt{T}} = d1 - \sigma \sqrt{T}$</p>
 
 
