@@ -100,10 +100,11 @@ For the five inputs into the model, four are easy observable
 
 | **INPUT** | **DATA** |
 |:---------:|:--------:|
-| \( S \)   | Spot price |
-| \( X \)   | Exercise price |
-| \( T \)   | Time to expiration |
-| \( $r_c$ \) | Free-risk rate |
+| S   | Spot price |
+| X   | Exercise price |
+| T   | Time to expiration |
+| $r_c$ | Free-risk rate |
+| $\sigma$ | Volatility |
 
 </div>
 
