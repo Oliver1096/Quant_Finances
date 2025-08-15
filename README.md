@@ -65,6 +65,10 @@ Itô's lemma is widely used in pricing derivatives. The price of a derivative is
 
 ## Black - Scholes - Merton model.
 
+The option price is assumed to be a function of only two variables: the asset price and time. 
+
+The model of stock price behavior used by Black, Scholes and Merton is the Winner proces and the Itô's lemma. It assumes that the percentage changes in the stock price in a very show period of time are normally distribuited. 
+
 Propuesto en 1973 por Fischer Black y Myron Scholes para la valoración de opciones europeas sobre una acción que no paga dividendos y cuyo precio es descrito por un movimiento Browniano geométrico.
 
 Analíticamente, el modelo B-S es una **ecuación diferencial parcial**.
@@ -90,10 +94,14 @@ and
 
 <p align="center">$d_2 = \frac{ln(S/X) + (r_c - \sigma^2/2) \cdot T}{\sigma \sqrt{T}} = d_1 - \sigma \sqrt{T}$</p>
 
+For the five inputs into the model, four are easy observable
 
-The option price is assumed to be a function of only two variables: the asset price and time. 
-
-The model of stock price behavior used by Black, Scholes and Merton is the Winner proces and the Itô's lemma. It assumes that the percentage changes in the stock price in a very show period of time are normally distribuited. 
+| **INPUT** | **DATA** |
+|:---------:|:--------:|
+| \( S \)        | 1 |
+| \( X \)        | 2 |
+| \( T \)        | 3 |
+| \( r_c \)      | 4 |
 
 
 ## Value at Risk (VaR)
