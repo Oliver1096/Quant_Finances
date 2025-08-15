@@ -82,6 +82,10 @@ Analíticamente, el modelo B-S es una **ecuación diferencial parcial**.
   
 <p align="center">$C = S \cdot N(d_1) - X \cdot e^{-rT} \cdot N(d_2)$</p>
 
+where: 
+
+°° d1 = \frac{ln(S/X) + (r_t}
+
 
 The option price is assumed to be a function of only two variables: the asset price and time. 
 
