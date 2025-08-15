@@ -96,12 +96,17 @@ and
 
 For the five inputs into the model, four are easy observable
 
+<div align="center">
+
 | **INPUT** | **DATA** |
 |:---------:|:--------:|
-| \( S \)        | 1 |
-| \( X \)        | 2 |
-| \( T \)        | 3 |
-| \( r_c \)      | 4 |
+| \( S \)   | Spot price |
+| \( X \)   | Exercise price |
+| \( T \)   | Time to expiration |
+| \( $r_c$ \) | Free-risk rate |
+
+</div>
+
 
 
 ## Value at Risk (VaR)
