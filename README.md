@@ -94,6 +94,13 @@ and
 
 <p align="center">$d_2 = \frac{ln(S/X) + (r_c - \sigma^2/2) \cdot T}{\sigma \sqrt{T}} = d_1 - \sigma \sqrt{T}$</p>
 
+The value $N(d_1)$ , i = 1,2 is the acumulative normal probability, it means:
+
+<p align="center">$N(d_1) = \int_{-\infty}^{d_1}$</p>
+
+
+
+
 For the five inputs into the model, **four are easy observable**, the only remaining factor is the **volatility**, and it is indeed an unobservable factor. Investors will have different opinions on the volatility, and this diversity of opinion will generate trading.
 
 <div align="center">
