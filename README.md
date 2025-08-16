@@ -96,7 +96,7 @@ and
 
 The value $N(d_1)$ , i = 1,2 is the acumulative normal probability, it means:
 
-<p align="center">$N(d_1) = \int_{-\infty}^{d_i} \frac{1}{\sqrt{2 \pi}} \e^{-x^{2}/2} dx   $</p>
+<p align="center">$N(d_1) = \int_{-\infty}^{d_i} \frac{1}{\sqrt{2 \pi}} e^{-x^{2}/2} dx   $</p>
 
 
 
