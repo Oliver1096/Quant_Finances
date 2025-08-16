@@ -94,7 +94,7 @@ and
 
 <p align="center">$d_2 = \frac{ln(S/X) + (r_c - \sigma^2/2) \cdot T}{\sigma \sqrt{T}} = d_1 - \sigma \sqrt{T}$</p>
 
-The value $N(d_1)$ , $i$ = 1,2 is the acumulative normal probability, it means:
+The value $N(d_i)$ , $i$ = 1,2 is the acumulative normal probability, it means:
 
 <p align="center">$N(d_i) = \int_{-\infty}^{d_i} \frac{1}{\sqrt{2 \pi}} e^{-x^{2}/2} dx$</p>
 
