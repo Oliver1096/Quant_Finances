@@ -101,7 +101,7 @@ The value $N(d_1)$ , $i$ = 1,2 is the acumulative normal probability, it means:
 Note that the expected return on the asset is not the asset is not a factor in pricing the option. All of the information needed to capture investor risk preferences is embedded in the price of the underlying, S. If we attempted to incorporate risk preferences by, say, using a discount rate greater than the risk-free rate, we would be double counting, that is, penalizing the option twice for the effect of risk.
 
 
-For the five inputs into the model, **four are easy observable**, the only remaining factor is the **volatility**, and it is indeed an unobservable factor. Investors will have different opinions on the volatility, and this diversity of opinion will generate trading.
+For the five inputs into the model, four are easy observable, the only remaining factor is the **volatility**, and it is indeed an unobservable factor. Investors will have different opinions on the volatility, and **this diversity of opinion will generate trading**.
 
 <div align="center">
 
