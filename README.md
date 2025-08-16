@@ -84,7 +84,7 @@ Analíticamente, el modelo B-S es una **ecuación diferencial parcial**.
 * El precio S del activo subyacente es descrito mediante un movimiento geométrico Browniano.
 * No existen oportunidades de arbitraje.
   
-<p align="center">$C = S \cdot N(d_1) - X \cdot e^{-rT} \cdot N(d_2)$</p>
+<p align="center">$C = S \cdot N(d_1) - X \cdot e^{-r_c T} \cdot N(d_2)$</p>
 
 where: 
 
@@ -115,13 +115,17 @@ For the five inputs into the model, four are easy observable, the only remaining
 
 </div>
 
-The model for pricing a European put is derived from put-call parity:
+
+
+The model for pricing a **European put** is derived from put-call parity:
 
 We know that
 
-<p align="center">$p = c - S + Xe^{-r_c T}$</p>
+<p align="center">$P = c - S + Xe^{-r_c T}$</p>
 
+So, we can substitute into this equation for $C$ from the Black-Scholes-Merton formula to obtain:
 
+<p align="center">$P = X \cdot e^{-r_c T} \cdot N(-d_2) - SN(-d_1)$</p>
 
 ## Value at Risk (VaR)
 
