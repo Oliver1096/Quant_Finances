@@ -115,6 +115,12 @@ For the five inputs into the model, four are easy observable, the only remaining
 
 </div>
 
+The model for pricing a European put is derived from put-call parity:
+
+We know that
+
+<p align="center">$p = c - S + Xe^{-r_c T}$</p>
+
 
 
 ## Value at Risk (VaR)
