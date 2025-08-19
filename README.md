@@ -75,6 +75,10 @@ Analíticamente, el modelo B-S es una **ecuación diferencial parcial**.
 
 **Supuestos**
 
+* The underlying asset follows a lognormal random walk.
+* The underlying spot price follows a geometric brownian motion.
+* 
+
 * Volatilidades constantes asociadas al comportamiento del precio del activo subyacente.
 * Ausencia de costos de transacción.
 * Mercados perfectamente liquidos.
